@@ -1,4 +1,4 @@
-package org.suanhua;
+package com.im2501.springbootdemo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
